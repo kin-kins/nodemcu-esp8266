@@ -24,7 +24,7 @@ void setup(){
 
 void loop(){
     int chk=dht.read(2);
-    float x=client.getValue(ID_2);
+    float x=client.getValue(ID_2); //recieve data command
     Serial.println(x);
     delay(6000);
     float t = dht.readTemperature();       

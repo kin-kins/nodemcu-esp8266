@@ -3,7 +3,7 @@
 #include "FirebaseArduino.h"
 
 // Set these to run example.
-#define FIREBASE_HOST "https://rgbled-2e30a.firebaseio.com"
+#define FIREBASE_HOST "YOUR DATABASE ID"
 #define FIREBASE_AUTH "YOUR AUTHOUROSATION TOKEN"
 #define WIFI_SSID "one plus"
 #define WIFI_PASSWORD "asdfghjkl1"

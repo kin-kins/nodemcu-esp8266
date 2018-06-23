@@ -1,6 +1,6 @@
 
 #include <ESP8266WiFi.h>
-#include "FirebaseArduino.h"
+#include "FirebaseArduino.h" 
 
 // Set these to run example.
 #define FIREBASE_HOST "YOUR DATABASE ID"

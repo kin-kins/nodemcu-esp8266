@@ -3,7 +3,7 @@
 const char* ssid = "one plus";
 const char* password = "asdfghjkl1";
  
-int ledPin = 13; // GPIO13
+int ledPin = 13; // GPIO13 
 WiFiServer server(80);
  
 void setup() {

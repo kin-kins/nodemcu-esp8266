@@ -4,7 +4,7 @@ void setup() {
   // put your setup code here, to run once:
 WiFi.softAP("node","asdfghjkl1");
 Serial.begin(115200); 
-   
+     
 } 
    
 void loop() {

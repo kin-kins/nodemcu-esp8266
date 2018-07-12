@@ -1,7 +1,7 @@
 
 #include<ESP8266WiFi.h>
 void setup() {
-  // put your setup code here, to run once:
+  // put your setup code here, to  run once:
 WiFi.softAP("node","asdfghjkl1");
 Serial.begin(115200); 
      

@@ -1,7 +1,7 @@
 //
 // Copyright 2015 Google Inc.
 
-
+ 
 #include <ESP8266WiFi.h>
 #include "FirebaseArduino.h"
 #include "DHT.h"        // including the library of DHT11 temperature and humidity sensor
